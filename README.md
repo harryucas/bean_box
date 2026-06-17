@@ -43,18 +43,18 @@
 
 | 数据总览 | 口味画像 | 冲煮详情 |
 |---------|---------|---------|
-| ![总览](screenshots/annual-report.jpg) | ![口味](screenshots/overview.jpg) | ![冲煮](screenshots/brew-detail.jpg) |
+| ![总览](androidApp/screenshots/annual-report.jpg) | ![口味](androidApp/screenshots/overview.jpg) | ![冲煮](androidApp/screenshots/brew-detail.jpg) |
 
 | 豆子编辑 | 新增冲煮 | 成就徽章 |
 |---------|---------|---------|
-| ![编辑](screenshots/add-bean.jpg) | ![冲煮](screenshots/add-brew.jpg) | ![成就](screenshots/achievements-full.jpeg) |
+| ![编辑](androidApp/screenshots/add-bean.jpg) | ![冲煮](androidApp/screenshots/add-brew.jpg) | ![成就](androidApp/screenshots/achievements-full.jpeg) |
 
 ---
 
 ## 下载
 
 ### 直接下载 APK
-→ [CoffeeBrew-debug.apk](CoffeeBrew-debug.apk)
+→ [beanbox_v1.0.apk](androidApp/beanbox_v1.0.apk)
 
 > 首次安装需开启「允许安装未知来源应用」
 
