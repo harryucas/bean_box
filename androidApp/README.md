@@ -54,7 +54,7 @@
 ## 下载
 
 ### 直接下载 APK
-→ [CoffeeBrew-debug.apk](CoffeeBrew-debug.apk)
+→ [beanbox_v1.0.0.apk](beanbox_v1.0.0.apk)
 
 > 首次安装需开启「允许安装未知来源应用」
 
