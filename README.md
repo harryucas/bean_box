@@ -54,7 +54,7 @@
 ## 下载
 
 ### 直接下载 APK
-→ [beanbox_v1.0.0.apk](androidApp/beanbox_v1.0.0.apk)
+→ [beanbox_v1.0.1.apk](androidApp/beanbox_v1.0.1.apk)
 
 > 首次安装需开启「允许安装未知来源应用」
 
